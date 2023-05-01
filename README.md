@@ -14,7 +14,7 @@
   
   <p align="center" width="100%">
     <img width="41.3%" src="https://raw.githubusercontent.com/leo880714/leo880714/master/profile-summary-card-output/rose_pine/3-stats.svg">
-    <img width="41.3" src="https://raw.githubusercontent.com/leo880714/leo880714/master/profile-summary-card-output/rose_pine/4-productive-time.svg">
+    <img width="41.3%" src="https://raw.githubusercontent.com/leo880714/leo880714/master/profile-summary-card-output/rose_pine/4-productive-time.svg">
   </p>
 
 </p>
