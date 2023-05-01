@@ -8,8 +8,8 @@
   <img src="https://raw.githubusercontent.com/leo880714/leo880714/master/profile-summary-card-output/rose_pine/0-profile-details.svg">
   <br />
   <p align="center" width="100%">
-    <img width="30%" src="https://raw.githubusercontent.com/leo880714/leo880714/master/profile-summary-card-output/rose_pine/1-repos-per-language.svg">
-    <img width="30%" src="https://raw.githubusercontent.com/leo880714/leo880714/master/profile-summary-card-output/rose_pine/2-most-commit-language.svg">
+    <img width="36%" src="https://raw.githubusercontent.com/leo880714/leo880714/master/profile-summary-card-output/rose_pine/1-repos-per-language.svg">
+    <img width="36%" src="https://raw.githubusercontent.com/leo880714/leo880714/master/profile-summary-card-output/rose_pine/2-most-commit-language.svg">
   </p>
   
   <p align="center" width="100%">
