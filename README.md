@@ -8,13 +8,13 @@
   <img src="https://raw.githubusercontent.com/leo880714/leo880714/master/profile-summary-card-output/rose_pine/0-profile-details.svg">
   <br />
   <p align="center" width="100%">
-    <img width="41.3%" src="https://raw.githubusercontent.com/leo880714/leo880714/master/profile-summary-card-output/rose_pine/1-repos-per-language.svg">
-    <img width="41.3%" src="https://raw.githubusercontent.com/leo880714/leo880714/master/profile-summary-card-output/rose_pine/2-most-commit-language.svg">
+    <img width="41.29%" src="https://raw.githubusercontent.com/leo880714/leo880714/master/profile-summary-card-output/rose_pine/1-repos-per-language.svg">
+    <img width="41.29%" src="https://raw.githubusercontent.com/leo880714/leo880714/master/profile-summary-card-output/rose_pine/2-most-commit-language.svg">
   </p>
   
   <p align="center" width="100%">
-    <img width="41.3%" src="https://raw.githubusercontent.com/leo880714/leo880714/master/profile-summary-card-output/rose_pine/3-stats.svg">
-    <img width="41.3%" src="https://raw.githubusercontent.com/leo880714/leo880714/master/profile-summary-card-output/rose_pine/4-productive-time.svg">
+    <img width="41.29%" src="https://raw.githubusercontent.com/leo880714/leo880714/master/profile-summary-card-output/rose_pine/3-stats.svg">
+    <img width="41.29%" src="https://raw.githubusercontent.com/leo880714/leo880714/master/profile-summary-card-output/rose_pine/4-productive-time.svg">
   </p>
 
 </p>
